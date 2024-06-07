@@ -1,51 +1,33 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Protegendo-se Online: Guia Prático para Segurança na Internet
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma cartilha sobre proteção na internet pra usuários comuns
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+ChatGPT - 3.5
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para o ChatGPT gerar uma cartilha básica de fácil leitura e compreensão para usuários comuns da interne que tenham pouco ou nenhum conhecimento em tecnologia e segurança digital, baseada na cartilha CERT.br
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Para um usuário comum que possua pouco ou nenhum conhecimento sobre segurança da informação, compreender a importância de proteger-se online é fundamental para evitar possíveis ameaças cibernéticas, para isso pode-se utilizar algumas medidas como:
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Mantenha seus dispositivos atualizados: Certifique-se de que seu sistema operacional, navegadores, aplicativos e antivírus estejam sempre atualizados. As atualizações frequentes geralmente corrigem vulnerabilidades de segurança.
 
-### Exemplos e Insigths
+Use senhas fortes e únicas: Crie senhas complexas e diferentes para cada conta. Evite senhas óbvias ou fáceis de adivinhar. Considere o uso de um gerenciador de senhas confiável para armazenar suas credenciais de forma segura.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Ative a autenticação de dois fatores (2FA): Adicione uma camada extra de segurança às suas contas ativando a autenticação de dois fatores sempre que possível. Isso dificulta o acesso não autorizado mesmo se sua senha for comprometida.
 
-## Links Interessantes
+Tenha cuidado com phishing: Esteja atento a e-mails, mensagens e links suspeitos. Não clique em links ou baixe anexos de remetentes desconhecidos. Verifique sempre a autenticidade de sites antes de inserir informações pessoais.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Use uma conexão segura: Ao acessar informações confidenciais ou realizar transações online, verifique se está usando uma conexão segura e criptografada. Evite redes Wi-Fi públicas para tarefas sensíveis.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Faça backup regularmente: Mantenha cópias de segurança atualizadas de seus arquivos importantes. Em caso de ataque de ransomware ou perda de dados, você poderá recuperar suas informações.
+
+Proteja sua privacidade: Revise e ajuste as configurações de privacidade em redes sociais, serviços online e dispositivos para controlar quem pode ver suas informações pessoais. Limite o compartilhamento de dados apenas ao necessário.
+
+Esteja ciente das configurações de segurança da sua rede doméstica: Configure seu roteador com uma senha forte e utilize a criptografia WPA2 ou WPA3 para proteger sua rede Wi-Fi doméstica.
+
+Seja criterioso ao baixar aplicativos: Baixe aplicativos apenas de lojas de aplicativos oficiais e evite instalar software de fontes desconhecidas. Leia as avaliações e verifique as permissões solicitadas pelos aplicativos antes da instalação.
+
+Fique atualizado sobre ameaças e práticas de segurança: Mantenha-se informado sobre as últimas ameaças cibernéticas e práticas recomendadas de segurança. Recursos como blogs de segurança, sites de órgãos governamentais e notícias de tecnologia podem ajudá-lo a estar ciente e protegido.
+
